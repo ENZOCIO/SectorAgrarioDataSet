@@ -1,10 +1,3 @@
-;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;
 Codigo Dep.;Departamento;Codigo Municipio;Municipio;Grupo Cultivos;Subgrupo Cultivo;Cultivo;Sistema Productivo;Año;Periodo;Area Sembrada;Area Cocechada;Produccion;Rendimiento;Estado Fisico;Nombre Cientifico;Ciclo Cultivo
 15;BOYACA;15114;BUSBANZA;HORTALIZAS;ACELGA;ACELGA;ACELGA;2006;2006B;2;1;1;1;FRUTO FRESCO;BETA VULGARIS;TRANSITORIO
 25;CUNDINAMARCA;25754;SOACHA;HORTALIZAS;ACELGA;ACELGA;ACELGA;2006;2006B;82;80;1440;18;FRUTO FRESCO;BETA VULGARIS;TRANSITORIO
